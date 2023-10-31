@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.adactin.runner.AdactinRunnerClass
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 82.277 s - in com.adactin.runner.AdactinRunnerClass
